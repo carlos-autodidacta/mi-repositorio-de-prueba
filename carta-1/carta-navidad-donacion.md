@@ -4,3 +4,5 @@ Nos acercamos a la Navidad donde celebramos el nacimiento de Jesús, Hijo de Dio
 
 
 Bendiciones y un próspero año nuevo.
+
+Haga clic en Insertar y elija los elementos que desee de las distintas galerías.Los temas y estilos también ayudan a mantener su documento coordinado. Cuando haga clic en Diseño y seleccione un tema nuevo, cambiarán las imágenes, gráficos y gráficos SmartArt para que coincidan con el nuevo tema. Al aplicar los estilos, los títulos cambian para coincidir con el nuevo tema. Ahorre tiempo en Word con nuevos botones que se muestran donde se necesiten.
